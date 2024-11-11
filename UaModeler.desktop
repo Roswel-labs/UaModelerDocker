@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=UaModeler
+Comment=OPC UA Modeler Utility
+Exec=/opt/UaModeler.AppImage --appimage-extract-and-run
+Icon=uamodeler
+Terminal=false
+Type=Application
+Categories=Utility;Application;
