@@ -8,7 +8,7 @@ Purpose of this repo is to setup the UA Modeler as a containerized GUI app acces
 
 # Setup
 
-## UA Expert
+## UA Modeler
 
 1) download [UA Modeler](https://www.unified-automation.com/fileadmin/files/development/uamodeler/uamodeler-bin-linux-x86_64-1.6.12-534.AppImage.zip) Linux binary (tested with v1.6.12)
 2) place it in the root of this repo
